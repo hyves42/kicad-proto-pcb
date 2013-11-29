@@ -1,0 +1,423 @@
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Fri 07 Jun 2013 11:57:23 PM CEST
+
+BeginCmp
+TimeStamp = /51A92DCD;
+Reference = U1;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A92DEB;
+Reference = U2;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9332C;
+Reference = U3;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9332B;
+Reference = U4;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A933C3;
+Reference = U5;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A933C4;
+Reference = U6;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A93417;
+Reference = U7;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A93416;
+Reference = U8;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9341F;
+Reference = U9;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A93420;
+Reference = U10;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9342E;
+Reference = U11;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9342D;
+Reference = U12;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A93434;
+Reference = U13;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A93435;
+Reference = U14;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9343D;
+Reference = U15;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9343C;
+Reference = U16;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9344B;
+Reference = U17;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9344C;
+Reference = U18;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A93455;
+Reference = U19;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A93454;
+Reference = U20;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9345E;
+Reference = U21;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9345F;
+Reference = U22;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9346E;
+Reference = U23;
+ValeurCmp = PROTO_SOIC6;
+IdModule  = proto_soic6;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A9346D;
+Reference = U24;
+ValeurCmp = PROTO_SOT23;
+IdModule  = proto_sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24C3B;
+Reference = U30;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24E77;
+Reference = U31;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24E91;
+Reference = U32;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24E93;
+Reference = U33;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24E95;
+Reference = U34;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24E96;
+Reference = U35;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24E97;
+Reference = U36;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24E9A;
+Reference = U37;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24E9D;
+Reference = U38;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24E9F;
+Reference = U39;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EA1;
+Reference = U40;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EA3;
+Reference = U41;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EA7;
+Reference = U42;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EA9;
+Reference = U43;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EAC;
+Reference = U44;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EB9;
+Reference = U45;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EBA;
+Reference = U46;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EBB;
+Reference = U47;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EC1;
+Reference = U48;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EC0;
+Reference = U49;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EC5;
+Reference = U50;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EC7;
+Reference = U51;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EC8;
+Reference = U52;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EC9;
+Reference = U53;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24ECB;
+Reference = U54;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24ECD;
+Reference = U55;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24ECE;
+Reference = U56;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24ED2;
+Reference = U57;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24ED4;
+Reference = U58;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24ED8;
+Reference = U59;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EDA;
+Reference = U60;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EDB;
+Reference = U61;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EDD;
+Reference = U62;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EDF;
+Reference = U63;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EE1;
+Reference = U64;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /51B24EE2;
+Reference = U65;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+EndListe

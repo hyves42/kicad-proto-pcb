@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 01 Jun 2013 01:09:30 AM CEST
+#
+$CMP PROTO_SOT23
+D A dummy component for protoboard SOT23 footprints
+$ENDCMP
+#
+#End Doc Library
