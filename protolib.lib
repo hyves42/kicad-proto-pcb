@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Fri 07 Jun 2013 11:07:52 PM CEST
+EESchema-LIBRARY Version 2.3  Date: Sun 01 Dec 2013 11:05:51 PM CET
 #encoding utf-8
 #
 # PAD
@@ -6,8 +6,10 @@ EESchema-LIBRARY Version 2.3  Date: Fri 07 Jun 2013 11:07:52 PM CEST
 DEF PAD U 0 0 N N 1 F N
 F0 "U" 0 -100 60 H V C CNN
 F1 "PAD" 0 100 60 H V C CNN
+F2 "proto_pad" -100 -200 60 H I C CNN
 $FPLIST
  proto_pad
+ proto_pad2
 $ENDFPLIST
 DRAW
 X 1 1 0 0 50 R 50 50 1 1 U
@@ -19,6 +21,7 @@ ENDDEF
 DEF PROTO_SOIC6 U 0 40 Y Y 1 F N
 F0 "U" 0 200 60 H V C CNN
 F1 "PROTO_SOIC6" 0 -200 60 H V C CNN
+F2 "proto_soic6" -100 100 60 H I C CNN
 $FPLIST
  proto_soic6
 $ENDFPLIST
@@ -39,6 +42,7 @@ ENDDEF
 DEF PROTO_SOT23 U 0 40 Y Y 1 F N
 F0 "U" 0 200 60 H V C CNN
 F1 "PROTO_SOT23" 0 -200 60 H V C CNN
+F2 "proto_sot23" -100 100 60 H I C CNN
 $FPLIST
  proto_sot23
 $ENDFPLIST

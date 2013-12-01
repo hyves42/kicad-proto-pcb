@@ -1,373 +1,1466 @@
-# EESchema Netlist Version 1.1 created  Fri 07 Jun 2013 11:57:23 PM CEST
+# EESchema Netlist Version 1.1 created  Mon 02 Dec 2013 12:23:45 AM CET
 (
- ( /51A92DCD proto_soic6 U1 PROTO_SOIC6
-  ( 1 N-000040 )
-  ( 2 N-000039 )
-  ( 3 N-000036 )
-  ( 4 N-000038 )
-  ( 5 N-000035 )
-  ( 6 N-000037 )
+ ( /529BB2F1 proto_pad  U1001 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A92DEB proto_sot23 U2 PROTO_SOT23
-  ( 1 N-000040 )
-  ( 2 N-000039 )
-  ( 3 N-000036 )
-  ( 4 N-000038 )
-  ( 5 N-000035 )
-  ( 6 N-000037 )
+ ( /529BABAD proto_pad2  P35 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9332C proto_soic6 U3 PROTO_SOIC6
-  ( 1 N-000043 )
-  ( 2 N-000046 )
-  ( 3 N-000042 )
-  ( 4 N-000045 )
-  ( 5 N-000034 )
-  ( 6 N-000044 )
+ ( /529BABAC proto_pad2  P36 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9332B proto_sot23 U4 PROTO_SOT23
-  ( 1 N-000043 )
-  ( 2 N-000046 )
-  ( 3 N-000042 )
-  ( 4 N-000045 )
-  ( 5 N-000034 )
-  ( 6 N-000044 )
+ ( /529BABAB proto_pad2  P34 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A933C3 proto_soic6 U5 PROTO_SOIC6
-  ( 1 N-000022 )
-  ( 2 N-000025 )
-  ( 3 N-000021 )
-  ( 4 N-000024 )
-  ( 5 N-000047 )
-  ( 6 N-000023 )
+ ( /529BABAA proto_pad2  P33 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A933C4 proto_sot23 U6 PROTO_SOT23
-  ( 1 N-000022 )
-  ( 2 N-000025 )
-  ( 3 N-000021 )
-  ( 4 N-000024 )
-  ( 5 N-000047 )
-  ( 6 N-000023 )
+ ( /529B980F proto_pad2  P17 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A93417 proto_soic6 U7 PROTO_SOIC6
-  ( 1 N-000028 )
-  ( 2 N-000020 )
-  ( 3 N-000027 )
-  ( 4 N-000030 )
-  ( 5 N-000026 )
-  ( 6 N-000029 )
+ ( /529B980E proto_pad2  P18 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A93416 proto_sot23 U8 PROTO_SOT23
-  ( 1 N-000028 )
-  ( 2 N-000020 )
-  ( 3 N-000027 )
-  ( 4 N-000030 )
-  ( 5 N-000026 )
-  ( 6 N-000029 )
+ ( /529B980D proto_pad2  P20 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9341F proto_soic6 U9 PROTO_SOIC6
-  ( 1 N-000041 )
-  ( 2 N-000064 )
-  ( 3 N-000033 )
-  ( 4 N-000032 )
-  ( 5 N-000031 )
-  ( 6 N-000063 )
+ ( /529B980C proto_pad2  P19 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A93420 proto_sot23 U10 PROTO_SOT23
-  ( 1 N-000041 )
-  ( 2 N-000064 )
-  ( 3 N-000033 )
-  ( 4 N-000032 )
-  ( 5 N-000031 )
-  ( 6 N-000063 )
+ ( /529B980B proto_pad2  P23 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9342E proto_soic6 U11 PROTO_SOIC6
-  ( 1 N-000067 )
-  ( 2 N-000070 )
-  ( 3 N-000066 )
-  ( 4 N-000069 )
-  ( 5 N-000065 )
-  ( 6 N-000068 )
+ ( /529B980A proto_pad2  P24 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9342D proto_sot23 U12 PROTO_SOT23
-  ( 1 N-000067 )
-  ( 2 N-000070 )
-  ( 3 N-000066 )
-  ( 4 N-000069 )
-  ( 5 N-000065 )
-  ( 6 N-000068 )
+ ( /529B9809 proto_pad2  P22 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A93434 proto_soic6 U13 PROTO_SOIC6
-  ( 1 N-000050 )
-  ( 2 N-000049 )
-  ( 3 N-000072 )
-  ( 4 N-000056 )
-  ( 5 N-000071 )
-  ( 6 N-000073 )
+ ( /529B9808 proto_pad2  P21 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A93435 proto_sot23 U14 PROTO_SOT23
-  ( 1 N-000050 )
-  ( 2 N-000049 )
-  ( 3 N-000072 )
-  ( 4 N-000056 )
-  ( 5 N-000071 )
-  ( 6 N-000073 )
+ ( /529B9807 proto_pad2  P29 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9343D proto_soic6 U15 PROTO_SOIC6
-  ( 1 N-000053 )
-  ( 2 N-000048 )
-  ( 3 N-000052 )
-  ( 4 N-000055 )
-  ( 5 N-000051 )
-  ( 6 N-000054 )
+ ( /529B9806 proto_pad2  P30 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9343C proto_sot23 U16 PROTO_SOT23
-  ( 1 N-000053 )
-  ( 2 N-000048 )
-  ( 3 N-000052 )
-  ( 4 N-000055 )
-  ( 5 N-000051 )
-  ( 6 N-000054 )
+ ( /529B9805 proto_pad2  P32 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9344B proto_soic6 U17 PROTO_SOIC6
-  ( 1 N-000059 )
-  ( 2 N-000062 )
-  ( 3 N-000058 )
-  ( 4 N-000061 )
-  ( 5 N-000057 )
-  ( 6 N-000060 )
+ ( /529B9804 proto_pad2  P31 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9344C proto_sot23 U18 PROTO_SOT23
-  ( 1 N-000059 )
-  ( 2 N-000062 )
-  ( 3 N-000058 )
-  ( 4 N-000061 )
-  ( 5 N-000057 )
-  ( 6 N-000060 )
+ ( /529B9803 proto_pad2  P27 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A93455 proto_soic6 U19 PROTO_SOIC6
-  ( 1 N-000010 )
-  ( 2 N-000009 )
-  ( 3 N-000008 )
-  ( 4 N-000012 )
-  ( 5 N-000007 )
-  ( 6 N-000011 )
+ ( /529B9802 proto_pad2  P28 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A93454 proto_sot23 U20 PROTO_SOT23
-  ( 1 N-000010 )
-  ( 2 N-000009 )
-  ( 3 N-000008 )
-  ( 4 N-000012 )
-  ( 5 N-000007 )
-  ( 6 N-000011 )
+ ( /529B9801 proto_pad2  P26 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9345E proto_soic6 U21 PROTO_SOIC6
-  ( 1 N-000014 )
-  ( 2 N-000017 )
-  ( 3 N-000013 )
-  ( 4 N-000016 )
-  ( 5 N-000006 )
-  ( 6 N-000015 )
+ ( /529B9800 proto_pad2  P25 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9345F proto_sot23 U22 PROTO_SOT23
-  ( 1 N-000014 )
-  ( 2 N-000017 )
-  ( 3 N-000013 )
-  ( 4 N-000016 )
-  ( 5 N-000006 )
-  ( 6 N-000015 )
+ ( /529B97F8 proto_pad2  P9 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9346E proto_soic6 U23 PROTO_SOIC6
-  ( 1 N-000002 )
-  ( 2 N-000005 )
-  ( 3 N-000001 )
-  ( 4 N-000004 )
-  ( 5 N-000018 )
-  ( 6 N-000003 )
+ ( /529B97F7 proto_pad2  P10 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51A9346D proto_sot23 U24 PROTO_SOT23
-  ( 1 N-000002 )
-  ( 2 N-000005 )
-  ( 3 N-000001 )
-  ( 4 N-000004 )
-  ( 5 N-000018 )
-  ( 6 N-000003 )
+ ( /529B97F6 proto_pad2  P12 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24C3B proto_pad U30 PAD
-  ( 1 N-000019 )
+ ( /529B97F5 proto_pad2  P11 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24E77 proto_pad U31 PAD
-  ( 1 N-000019 )
+ ( /529B97F4 proto_pad2  P15 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24E91 proto_pad U32 PAD
-  ( 1 N-000019 )
+ ( /529B97F3 proto_pad2  P16 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24E93 proto_pad U33 PAD
-  ( 1 N-000019 )
+ ( /529B97F2 proto_pad2  P14 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24E95 proto_pad U34 PAD
-  ( 1 N-000019 )
+ ( /529B97F1 proto_pad2  P13 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24E96 proto_pad U35 PAD
-  ( 1 N-000019 )
+ ( /529B97EC proto_pad2  P5 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24E97 proto_pad U36 PAD
-  ( 1 N-000019 )
+ ( /529B97EB proto_pad2  P6 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24E9A proto_pad U37 PAD
-  ( 1 N-000019 )
+ ( /529B97EA proto_pad2  P8 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24E9D proto_pad U38 PAD
-  ( 1 N-000019 )
+ ( /529B97E9 proto_pad2  P7 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24E9F proto_pad U39 PAD
-  ( 1 N-000019 )
+ ( /529B97E1 proto_pad2  P3 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24EA1 proto_pad U40 PAD
-  ( 1 N-000019 )
+ ( /529B97E0 proto_pad2  P4 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24EA3 proto_pad U41 PAD
-  ( 1 N-000019 )
+ ( /529B97D8 proto_pad2  P2 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24EA7 proto_pad U42 PAD
-  ( 1 N-000019 )
+ ( /529B94B6 proto_pad2  P1 PAD {Lib=PAD}
+  (    1 ? )
  )
- ( /51B24EA9 proto_pad U43 PAD
-  ( 1 N-000019 )
+ ( /529A22D1 proto_pad  U133 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EAC proto_pad U44 PAD
-  ( 1 N-000019 )
+ ( /529A22D0 proto_pad  U134 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EB9 proto_pad U45 PAD
-  ( 1 N-000019 )
+ ( /529A22CF proto_pad  U135 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EBA proto_pad U46 PAD
-  ( 1 N-000019 )
+ ( /529A22CE proto_pad  U136 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EBB proto_pad U47 PAD
-  ( 1 N-000019 )
+ ( /529A22CD proto_pad  U137 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EC1 proto_pad U48 PAD
-  ( 1 N-000019 )
+ ( /529A22CC proto_pad  U138 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EC0 proto_pad U49 PAD
-  ( 1 N-000019 )
+ ( /529A22CB proto_pad  U139 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EC5 proto_pad U50 PAD
-  ( 1 N-000019 )
+ ( /529A22CA proto_pad  U140 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EC7 proto_pad U51 PAD
-  ( 1 N-000019 )
+ ( /529A22C9 proto_pad  U141 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EC8 proto_pad U52 PAD
-  ( 1 N-000019 )
+ ( /529A22C8 proto_pad  U142 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EC9 proto_pad U53 PAD
-  ( 1 N-000019 )
+ ( /529A22C7 proto_pad  U143 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24ECB proto_pad U54 PAD
-  ( 1 N-000019 )
+ ( /529A22C6 proto_pad  U144 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24ECD proto_pad U55 PAD
-  ( 1 N-000019 )
+ ( /529A22C5 proto_pad  U145 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24ECE proto_pad U56 PAD
-  ( 1 N-000019 )
+ ( /529A22C4 proto_pad  U146 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24ED2 proto_pad U57 PAD
-  ( 1 N-000019 )
+ ( /529A22C3 proto_pad  U147 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24ED4 proto_pad U58 PAD
-  ( 1 N-000019 )
+ ( /529A22C2 proto_pad  U148 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24ED8 proto_pad U59 PAD
-  ( 1 N-000019 )
+ ( /529A22C1 proto_pad  U149 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EDA proto_pad U60 PAD
-  ( 1 N-000019 )
+ ( /529A22C0 proto_pad  U150 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EDB proto_pad U61 PAD
-  ( 1 N-000019 )
+ ( /529A22BF proto_pad  U152 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EDD proto_pad U62 PAD
-  ( 1 N-000019 )
+ ( /529A22BE proto_pad  U151 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EDF proto_pad U63 PAD
-  ( 1 N-000019 )
+ ( /529A22BD proto_pad  U153 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EE1 proto_pad U64 PAD
-  ( 1 N-000019 )
+ ( /529A22BC proto_pad  U154 PAD {Lib=PAD}
+  (    1 N-000109 )
  )
- ( /51B24EE2 proto_pad U65 PAD
-  ( 1 N-000019 )
+ ( /529A22BB proto_pad  U155 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22BA proto_pad  U156 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B9 proto_pad  U157 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B8 proto_pad  U158 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B7 proto_pad  U159 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B6 proto_pad  U160 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B5 proto_pad  U161 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B4 proto_pad  U162 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B3 proto_pad  U163 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B2 proto_pad  U164 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B1 proto_pad  U165 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22B0 proto_pad  U166 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22AF proto_pad  U167 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22AE proto_pad  U168 PAD {Lib=PAD}
+  (    1 N-000109 )
+ )
+ ( /529A22AD proto_pad  U102 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22AC proto_pad  U103 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22AB proto_pad  U104 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22AA proto_pad  U105 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A9 proto_pad  U106 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A8 proto_pad  U107 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A7 proto_pad  U108 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A6 proto_pad  U109 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A5 proto_pad  U110 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A4 proto_pad  U111 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A3 proto_pad  U112 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A2 proto_pad  U113 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A1 proto_pad  U114 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A22A0 proto_pad  U115 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A229F proto_pad  U116 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A229E proto_pad  U132 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A229D proto_pad  U130 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A229C proto_pad  U131 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A229B proto_pad  U129 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A229A proto_pad  U128 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2299 proto_pad  U127 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2298 proto_pad  U126 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2297 proto_pad  U125 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2296 proto_pad  U124 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2295 proto_pad  U123 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2294 proto_pad  U122 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2293 proto_pad  U121 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2292 proto_pad  U120 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2291 proto_pad  U119 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A2290 proto_pad  U118 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A228F proto_pad  U117 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A228E proto_pad  U29 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A228D proto_pad  U28 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A228C proto_pad  U27 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A228B proto_pad  U26 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A228A proto_pad  U25 PAD {Lib=PAD}
+  (    1 N-000111 )
+ )
+ ( /529A14D9 proto_pad  U101 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14D8 proto_pad  U100 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14D7 proto_pad  U99 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14D6 proto_pad  U98 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14D5 proto_pad  U97 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14D4 proto_pad  U96 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14D3 proto_pad  U95 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14D2 proto_pad  U94 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14D1 proto_pad  U93 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14D0 proto_pad  U92 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14CF proto_pad  U91 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14CE proto_pad  U90 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14CD proto_pad  U89 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14CC proto_pad  U88 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14CB proto_pad  U87 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14CA proto_pad  U86 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C9 proto_pad  U85 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C8 proto_pad  U84 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C7 proto_pad  U82 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C6 proto_pad  U83 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C5 proto_pad  U81 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C4 proto_pad  U80 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C3 proto_pad  U79 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C2 proto_pad  U78 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C1 proto_pad  U77 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14C0 proto_pad  U76 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14BF proto_pad  U75 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14BE proto_pad  U74 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14BD proto_pad  U73 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14BC proto_pad  U72 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14BB proto_pad  U71 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14BA proto_pad  U70 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14B9 proto_pad  U69 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14B8 proto_pad  U68 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14B7 proto_pad  U67 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /529A14B6 proto_pad  U66 PAD {Lib=PAD}
+  (    1 N-000112 )
+ )
+ ( /51B24EE2 proto_pad  U65 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EE1 proto_pad  U64 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EDF proto_pad  U63 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EDD proto_pad  U62 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EDB proto_pad  U61 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EDA proto_pad  U60 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24ED8 proto_pad  U59 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24ED4 proto_pad  U58 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24ED2 proto_pad  U57 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24ECE proto_pad  U56 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24ECD proto_pad  U55 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24ECB proto_pad  U54 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EC9 proto_pad  U53 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EC8 proto_pad  U52 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EC7 proto_pad  U51 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EC5 proto_pad  U50 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EC1 proto_pad  U48 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EC0 proto_pad  U49 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EBB proto_pad  U47 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EBA proto_pad  U46 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EB9 proto_pad  U45 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EAC proto_pad  U44 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EA9 proto_pad  U43 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EA7 proto_pad  U42 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EA3 proto_pad  U41 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24EA1 proto_pad  U40 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24E9F proto_pad  U39 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24E9D proto_pad  U38 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24E9A proto_pad  U37 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24E97 proto_pad  U36 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24E96 proto_pad  U35 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24E95 proto_pad  U34 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24E93 proto_pad  U33 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24E91 proto_pad  U32 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24E77 proto_pad  U31 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51B24C3B proto_pad  U30 PAD {Lib=PAD}
+  (    1 N-000017 )
+ )
+ ( /51A9346E proto_soic6  U23 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000020 )
+  (    2 N-000019 )
+  (    3 N-000021 )
+  (    4 N-000013 )
+  (    5 N-000022 )
+  (    6 N-000018 )
+ )
+ ( /51A9346D proto_sot23  U24 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000020 )
+  (    2 N-000019 )
+  (    3 N-000021 )
+  (    4 N-000013 )
+  (    5 N-000022 )
+  (    6 N-000018 )
+ )
+ ( /51A9345F proto_sot23  U22 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000001 )
+  (    2 N-000005 )
+  (    3 N-000004 )
+  (    4 N-000007 )
+  (    5 N-000003 )
+  (    6 N-000006 )
+ )
+ ( /51A9345E proto_soic6  U21 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000001 )
+  (    2 N-000005 )
+  (    3 N-000004 )
+  (    4 N-000007 )
+  (    5 N-000003 )
+  (    6 N-000006 )
+ )
+ ( /51A93455 proto_soic6  U19 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000015 )
+  (    2 N-000014 )
+  (    3 N-000016 )
+  (    4 N-000012 )
+  (    5 N-000002 )
+  (    6 N-000008 )
+ )
+ ( /51A93454 proto_sot23  U20 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000015 )
+  (    2 N-000014 )
+  (    3 N-000016 )
+  (    4 N-000012 )
+  (    5 N-000002 )
+  (    6 N-000008 )
+ )
+ ( /51A9344C proto_sot23  U18 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000044 )
+  (    2 N-000009 )
+  (    3 N-000043 )
+  (    4 N-000011 )
+  (    5 N-000042 )
+  (    6 N-000010 )
+ )
+ ( /51A9344B proto_soic6  U17 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000044 )
+  (    2 N-000009 )
+  (    3 N-000043 )
+  (    4 N-000011 )
+  (    5 N-000042 )
+  (    6 N-000010 )
+ )
+ ( /51A9343D proto_soic6  U15 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000039 )
+  (    2 N-000038 )
+  (    3 N-000040 )
+  (    4 N-000049 )
+  (    5 N-000041 )
+  (    6 N-000050 )
+ )
+ ( /51A9343C proto_sot23  U16 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000039 )
+  (    2 N-000038 )
+  (    3 N-000040 )
+  (    4 N-000049 )
+  (    5 N-000041 )
+  (    6 N-000050 )
+ )
+ ( /51A93435 proto_sot23  U14 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000045 )
+  (    2 N-000046 )
+  (    3 N-000034 )
+  (    4 N-000048 )
+  (    5 N-000029 )
+  (    6 N-000047 )
+ )
+ ( /51A93434 proto_soic6  U13 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000045 )
+  (    2 N-000046 )
+  (    3 N-000034 )
+  (    4 N-000048 )
+  (    5 N-000029 )
+  (    6 N-000047 )
+ )
+ ( /51A9342E proto_soic6  U11 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000023 )
+  (    2 N-000026 )
+  (    3 N-000027 )
+  (    4 N-000024 )
+  (    5 N-000028 )
+  (    6 N-000025 )
+ )
+ ( /51A9342D proto_sot23  U12 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000023 )
+  (    2 N-000026 )
+  (    3 N-000027 )
+  (    4 N-000024 )
+  (    5 N-000028 )
+  (    6 N-000025 )
+ )
+ ( /51A93420 proto_sot23  U10 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000030 )
+  (    2 N-000035 )
+  (    3 N-000033 )
+  (    4 N-000037 )
+  (    5 N-000032 )
+  (    6 N-000036 )
+ )
+ ( /51A9341F proto_soic6  U9 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000030 )
+  (    2 N-000035 )
+  (    3 N-000033 )
+  (    4 N-000037 )
+  (    5 N-000032 )
+  (    6 N-000036 )
+ )
+ ( /51A93417 proto_soic6  U7 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000051 )
+  (    2 N-000064 )
+  (    3 N-000052 )
+  (    4 N-000065 )
+  (    5 N-000031 )
+  (    6 N-000066 )
+ )
+ ( /51A93416 proto_sot23  U8 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000051 )
+  (    2 N-000064 )
+  (    3 N-000052 )
+  (    4 N-000065 )
+  (    5 N-000031 )
+  (    6 N-000066 )
+ )
+ ( /51A933C4 proto_sot23  U6 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000067 )
+  (    2 N-000068 )
+  (    3 N-000069 )
+  (    4 N-000070 )
+  (    5 N-000063 )
+  (    6 N-000071 )
+ )
+ ( /51A933C3 proto_soic6  U5 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000067 )
+  (    2 N-000068 )
+  (    3 N-000069 )
+  (    4 N-000070 )
+  (    5 N-000063 )
+  (    6 N-000071 )
+ )
+ ( /51A9332C proto_soic6  U3 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000072 )
+  (    2 N-000054 )
+  (    3 N-000058 )
+  (    4 N-000055 )
+  (    5 N-000053 )
+  (    6 N-000056 )
+ )
+ ( /51A9332B proto_sot23  U4 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000072 )
+  (    2 N-000054 )
+  (    3 N-000058 )
+  (    4 N-000055 )
+  (    5 N-000053 )
+  (    6 N-000056 )
+ )
+ ( /51A92DEB $noname  U2 PROTO_SOT23 {Lib=PROTO_SOT23}
+  (    1 N-000057 )
+  (    2 N-000060 )
+  (    3 N-000110 )
+  (    4 N-000061 )
+  (    5 N-000059 )
+  (    6 N-000062 )
+ )
+ ( /51A92DCD $noname  U1 PROTO_SOIC6 {Lib=PROTO_SOIC6}
+  (    1 N-000057 )
+  (    2 N-000060 )
+  (    3 N-000110 )
+  (    4 N-000061 )
+  (    5 N-000059 )
+  (    6 N-000062 )
  )
 )
 *
 { Allowed footprints by component:
-$component U1
- proto_soic6
+$component U1001
+ proto_pad
+ proto_pad2
 $endlist
-$component U2
- proto_sot23
+$component P35
+ proto_pad
+ proto_pad2
 $endlist
-$component U3
- proto_soic6
+$component P36
+ proto_pad
+ proto_pad2
 $endlist
-$component U4
- proto_sot23
+$component P34
+ proto_pad
+ proto_pad2
 $endlist
-$component U5
- proto_soic6
+$component P33
+ proto_pad
+ proto_pad2
 $endlist
-$component U6
- proto_sot23
+$component P17
+ proto_pad
+ proto_pad2
 $endlist
-$component U7
- proto_soic6
+$component P18
+ proto_pad
+ proto_pad2
 $endlist
-$component U8
- proto_sot23
+$component P20
+ proto_pad
+ proto_pad2
 $endlist
-$component U9
- proto_soic6
+$component P19
+ proto_pad
+ proto_pad2
 $endlist
-$component U10
- proto_sot23
+$component P23
+ proto_pad
+ proto_pad2
 $endlist
-$component U11
- proto_soic6
+$component P24
+ proto_pad
+ proto_pad2
 $endlist
-$component U12
- proto_sot23
+$component P22
+ proto_pad
+ proto_pad2
 $endlist
-$component U13
- proto_soic6
+$component P21
+ proto_pad
+ proto_pad2
 $endlist
-$component U14
- proto_sot23
+$component P29
+ proto_pad
+ proto_pad2
 $endlist
-$component U15
- proto_soic6
+$component P30
+ proto_pad
+ proto_pad2
 $endlist
-$component U16
- proto_sot23
+$component P32
+ proto_pad
+ proto_pad2
 $endlist
-$component U17
- proto_soic6
+$component P31
+ proto_pad
+ proto_pad2
 $endlist
-$component U18
- proto_sot23
+$component P27
+ proto_pad
+ proto_pad2
 $endlist
-$component U19
- proto_soic6
+$component P28
+ proto_pad
+ proto_pad2
 $endlist
-$component U20
- proto_sot23
+$component P26
+ proto_pad
+ proto_pad2
 $endlist
-$component U21
- proto_soic6
+$component P25
+ proto_pad
+ proto_pad2
 $endlist
-$component U22
- proto_sot23
+$component P9
+ proto_pad
+ proto_pad2
+$endlist
+$component P10
+ proto_pad
+ proto_pad2
+$endlist
+$component P12
+ proto_pad
+ proto_pad2
+$endlist
+$component P11
+ proto_pad
+ proto_pad2
+$endlist
+$component P15
+ proto_pad
+ proto_pad2
+$endlist
+$component P16
+ proto_pad
+ proto_pad2
+$endlist
+$component P14
+ proto_pad
+ proto_pad2
+$endlist
+$component P13
+ proto_pad
+ proto_pad2
+$endlist
+$component P5
+ proto_pad
+ proto_pad2
+$endlist
+$component P6
+ proto_pad
+ proto_pad2
+$endlist
+$component P8
+ proto_pad
+ proto_pad2
+$endlist
+$component P7
+ proto_pad
+ proto_pad2
+$endlist
+$component P3
+ proto_pad
+ proto_pad2
+$endlist
+$component P4
+ proto_pad
+ proto_pad2
+$endlist
+$component P2
+ proto_pad
+ proto_pad2
+$endlist
+$component P1
+ proto_pad
+ proto_pad2
+$endlist
+$component U133
+ proto_pad
+ proto_pad2
+$endlist
+$component U134
+ proto_pad
+ proto_pad2
+$endlist
+$component U135
+ proto_pad
+ proto_pad2
+$endlist
+$component U136
+ proto_pad
+ proto_pad2
+$endlist
+$component U137
+ proto_pad
+ proto_pad2
+$endlist
+$component U138
+ proto_pad
+ proto_pad2
+$endlist
+$component U139
+ proto_pad
+ proto_pad2
+$endlist
+$component U140
+ proto_pad
+ proto_pad2
+$endlist
+$component U141
+ proto_pad
+ proto_pad2
+$endlist
+$component U142
+ proto_pad
+ proto_pad2
+$endlist
+$component U143
+ proto_pad
+ proto_pad2
+$endlist
+$component U144
+ proto_pad
+ proto_pad2
+$endlist
+$component U145
+ proto_pad
+ proto_pad2
+$endlist
+$component U146
+ proto_pad
+ proto_pad2
+$endlist
+$component U147
+ proto_pad
+ proto_pad2
+$endlist
+$component U148
+ proto_pad
+ proto_pad2
+$endlist
+$component U149
+ proto_pad
+ proto_pad2
+$endlist
+$component U150
+ proto_pad
+ proto_pad2
+$endlist
+$component U152
+ proto_pad
+ proto_pad2
+$endlist
+$component U151
+ proto_pad
+ proto_pad2
+$endlist
+$component U153
+ proto_pad
+ proto_pad2
+$endlist
+$component U154
+ proto_pad
+ proto_pad2
+$endlist
+$component U155
+ proto_pad
+ proto_pad2
+$endlist
+$component U156
+ proto_pad
+ proto_pad2
+$endlist
+$component U157
+ proto_pad
+ proto_pad2
+$endlist
+$component U158
+ proto_pad
+ proto_pad2
+$endlist
+$component U159
+ proto_pad
+ proto_pad2
+$endlist
+$component U160
+ proto_pad
+ proto_pad2
+$endlist
+$component U161
+ proto_pad
+ proto_pad2
+$endlist
+$component U162
+ proto_pad
+ proto_pad2
+$endlist
+$component U163
+ proto_pad
+ proto_pad2
+$endlist
+$component U164
+ proto_pad
+ proto_pad2
+$endlist
+$component U165
+ proto_pad
+ proto_pad2
+$endlist
+$component U166
+ proto_pad
+ proto_pad2
+$endlist
+$component U167
+ proto_pad
+ proto_pad2
+$endlist
+$component U168
+ proto_pad
+ proto_pad2
+$endlist
+$component U102
+ proto_pad
+ proto_pad2
+$endlist
+$component U103
+ proto_pad
+ proto_pad2
+$endlist
+$component U104
+ proto_pad
+ proto_pad2
+$endlist
+$component U105
+ proto_pad
+ proto_pad2
+$endlist
+$component U106
+ proto_pad
+ proto_pad2
+$endlist
+$component U107
+ proto_pad
+ proto_pad2
+$endlist
+$component U108
+ proto_pad
+ proto_pad2
+$endlist
+$component U109
+ proto_pad
+ proto_pad2
+$endlist
+$component U110
+ proto_pad
+ proto_pad2
+$endlist
+$component U111
+ proto_pad
+ proto_pad2
+$endlist
+$component U112
+ proto_pad
+ proto_pad2
+$endlist
+$component U113
+ proto_pad
+ proto_pad2
+$endlist
+$component U114
+ proto_pad
+ proto_pad2
+$endlist
+$component U115
+ proto_pad
+ proto_pad2
+$endlist
+$component U116
+ proto_pad
+ proto_pad2
+$endlist
+$component U132
+ proto_pad
+ proto_pad2
+$endlist
+$component U130
+ proto_pad
+ proto_pad2
+$endlist
+$component U131
+ proto_pad
+ proto_pad2
+$endlist
+$component U129
+ proto_pad
+ proto_pad2
+$endlist
+$component U128
+ proto_pad
+ proto_pad2
+$endlist
+$component U127
+ proto_pad
+ proto_pad2
+$endlist
+$component U126
+ proto_pad
+ proto_pad2
+$endlist
+$component U125
+ proto_pad
+ proto_pad2
+$endlist
+$component U124
+ proto_pad
+ proto_pad2
+$endlist
+$component U123
+ proto_pad
+ proto_pad2
+$endlist
+$component U122
+ proto_pad
+ proto_pad2
+$endlist
+$component U121
+ proto_pad
+ proto_pad2
+$endlist
+$component U120
+ proto_pad
+ proto_pad2
+$endlist
+$component U119
+ proto_pad
+ proto_pad2
+$endlist
+$component U118
+ proto_pad
+ proto_pad2
+$endlist
+$component U117
+ proto_pad
+ proto_pad2
+$endlist
+$component U29
+ proto_pad
+ proto_pad2
+$endlist
+$component U28
+ proto_pad
+ proto_pad2
+$endlist
+$component U27
+ proto_pad
+ proto_pad2
+$endlist
+$component U26
+ proto_pad
+ proto_pad2
+$endlist
+$component U25
+ proto_pad
+ proto_pad2
+$endlist
+$component U101
+ proto_pad
+ proto_pad2
+$endlist
+$component U100
+ proto_pad
+ proto_pad2
+$endlist
+$component U99
+ proto_pad
+ proto_pad2
+$endlist
+$component U98
+ proto_pad
+ proto_pad2
+$endlist
+$component U97
+ proto_pad
+ proto_pad2
+$endlist
+$component U96
+ proto_pad
+ proto_pad2
+$endlist
+$component U95
+ proto_pad
+ proto_pad2
+$endlist
+$component U94
+ proto_pad
+ proto_pad2
+$endlist
+$component U93
+ proto_pad
+ proto_pad2
+$endlist
+$component U92
+ proto_pad
+ proto_pad2
+$endlist
+$component U91
+ proto_pad
+ proto_pad2
+$endlist
+$component U90
+ proto_pad
+ proto_pad2
+$endlist
+$component U89
+ proto_pad
+ proto_pad2
+$endlist
+$component U88
+ proto_pad
+ proto_pad2
+$endlist
+$component U87
+ proto_pad
+ proto_pad2
+$endlist
+$component U86
+ proto_pad
+ proto_pad2
+$endlist
+$component U85
+ proto_pad
+ proto_pad2
+$endlist
+$component U84
+ proto_pad
+ proto_pad2
+$endlist
+$component U82
+ proto_pad
+ proto_pad2
+$endlist
+$component U83
+ proto_pad
+ proto_pad2
+$endlist
+$component U81
+ proto_pad
+ proto_pad2
+$endlist
+$component U80
+ proto_pad
+ proto_pad2
+$endlist
+$component U79
+ proto_pad
+ proto_pad2
+$endlist
+$component U78
+ proto_pad
+ proto_pad2
+$endlist
+$component U77
+ proto_pad
+ proto_pad2
+$endlist
+$component U76
+ proto_pad
+ proto_pad2
+$endlist
+$component U75
+ proto_pad
+ proto_pad2
+$endlist
+$component U74
+ proto_pad
+ proto_pad2
+$endlist
+$component U73
+ proto_pad
+ proto_pad2
+$endlist
+$component U72
+ proto_pad
+ proto_pad2
+$endlist
+$component U71
+ proto_pad
+ proto_pad2
+$endlist
+$component U70
+ proto_pad
+ proto_pad2
+$endlist
+$component U69
+ proto_pad
+ proto_pad2
+$endlist
+$component U68
+ proto_pad
+ proto_pad2
+$endlist
+$component U67
+ proto_pad
+ proto_pad2
+$endlist
+$component U66
+ proto_pad
+ proto_pad2
+$endlist
+$component U65
+ proto_pad
+ proto_pad2
+$endlist
+$component U64
+ proto_pad
+ proto_pad2
+$endlist
+$component U63
+ proto_pad
+ proto_pad2
+$endlist
+$component U62
+ proto_pad
+ proto_pad2
+$endlist
+$component U61
+ proto_pad
+ proto_pad2
+$endlist
+$component U60
+ proto_pad
+ proto_pad2
+$endlist
+$component U59
+ proto_pad
+ proto_pad2
+$endlist
+$component U58
+ proto_pad
+ proto_pad2
+$endlist
+$component U57
+ proto_pad
+ proto_pad2
+$endlist
+$component U56
+ proto_pad
+ proto_pad2
+$endlist
+$component U55
+ proto_pad
+ proto_pad2
+$endlist
+$component U54
+ proto_pad
+ proto_pad2
+$endlist
+$component U53
+ proto_pad
+ proto_pad2
+$endlist
+$component U52
+ proto_pad
+ proto_pad2
+$endlist
+$component U51
+ proto_pad
+ proto_pad2
+$endlist
+$component U50
+ proto_pad
+ proto_pad2
+$endlist
+$component U48
+ proto_pad
+ proto_pad2
+$endlist
+$component U49
+ proto_pad
+ proto_pad2
+$endlist
+$component U47
+ proto_pad
+ proto_pad2
+$endlist
+$component U46
+ proto_pad
+ proto_pad2
+$endlist
+$component U45
+ proto_pad
+ proto_pad2
+$endlist
+$component U44
+ proto_pad
+ proto_pad2
+$endlist
+$component U43
+ proto_pad
+ proto_pad2
+$endlist
+$component U42
+ proto_pad
+ proto_pad2
+$endlist
+$component U41
+ proto_pad
+ proto_pad2
+$endlist
+$component U40
+ proto_pad
+ proto_pad2
+$endlist
+$component U39
+ proto_pad
+ proto_pad2
+$endlist
+$component U38
+ proto_pad
+ proto_pad2
+$endlist
+$component U37
+ proto_pad
+ proto_pad2
+$endlist
+$component U36
+ proto_pad
+ proto_pad2
+$endlist
+$component U35
+ proto_pad
+ proto_pad2
+$endlist
+$component U34
+ proto_pad
+ proto_pad2
+$endlist
+$component U33
+ proto_pad
+ proto_pad2
+$endlist
+$component U32
+ proto_pad
+ proto_pad2
+$endlist
+$component U31
+ proto_pad
+ proto_pad2
+$endlist
+$component U30
+ proto_pad
+ proto_pad2
 $endlist
 $component U23
  proto_soic6
@@ -375,113 +1468,438 @@ $endlist
 $component U24
  proto_sot23
 $endlist
-$component U30
- proto_pad
+$component U22
+ proto_sot23
 $endlist
-$component U31
- proto_pad
+$component U21
+ proto_soic6
 $endlist
-$component U32
- proto_pad
+$component U19
+ proto_soic6
 $endlist
-$component U33
- proto_pad
+$component U20
+ proto_sot23
 $endlist
-$component U34
- proto_pad
+$component U18
+ proto_sot23
 $endlist
-$component U35
- proto_pad
+$component U17
+ proto_soic6
 $endlist
-$component U36
- proto_pad
+$component U15
+ proto_soic6
 $endlist
-$component U37
- proto_pad
+$component U16
+ proto_sot23
 $endlist
-$component U38
- proto_pad
+$component U14
+ proto_sot23
 $endlist
-$component U39
- proto_pad
+$component U13
+ proto_soic6
 $endlist
-$component U40
- proto_pad
+$component U11
+ proto_soic6
 $endlist
-$component U41
- proto_pad
+$component U12
+ proto_sot23
 $endlist
-$component U42
- proto_pad
+$component U10
+ proto_sot23
 $endlist
-$component U43
- proto_pad
+$component U9
+ proto_soic6
 $endlist
-$component U44
- proto_pad
+$component U7
+ proto_soic6
 $endlist
-$component U45
- proto_pad
+$component U8
+ proto_sot23
 $endlist
-$component U46
- proto_pad
+$component U6
+ proto_sot23
 $endlist
-$component U47
- proto_pad
+$component U5
+ proto_soic6
 $endlist
-$component U48
- proto_pad
+$component U3
+ proto_soic6
 $endlist
-$component U49
- proto_pad
+$component U4
+ proto_sot23
 $endlist
-$component U50
- proto_pad
+$component U2
+ proto_sot23
 $endlist
-$component U51
- proto_pad
-$endlist
-$component U52
- proto_pad
-$endlist
-$component U53
- proto_pad
-$endlist
-$component U54
- proto_pad
-$endlist
-$component U55
- proto_pad
-$endlist
-$component U56
- proto_pad
-$endlist
-$component U57
- proto_pad
-$endlist
-$component U58
- proto_pad
-$endlist
-$component U59
- proto_pad
-$endlist
-$component U60
- proto_pad
-$endlist
-$component U61
- proto_pad
-$endlist
-$component U62
- proto_pad
-$endlist
-$component U63
- proto_pad
-$endlist
-$component U64
- proto_pad
-$endlist
-$component U65
- proto_pad
+$component U1
+ proto_soic6
 $endlist
 $endfootprintlist
 }
+{ Pin List by Nets
+Net 1 "" ""
+ U21 1
+ U22 1
+Net 2 "" ""
+ U20 5
+ U19 5
+Net 3 "" ""
+ U21 5
+ U22 5
+Net 4 "" ""
+ U21 3
+ U22 3
+Net 5 "" ""
+ U21 2
+ U22 2
+Net 6 "" ""
+ U22 6
+ U21 6
+Net 7 "" ""
+ U21 4
+ U22 4
+Net 8 "" ""
+ U19 6
+ U20 6
+Net 9 "" ""
+ U18 2
+ U17 2
+Net 10 "" ""
+ U17 6
+ U18 6
+Net 11 "" ""
+ U17 4
+ U18 4
+Net 12 "" ""
+ U20 4
+ U19 4
+Net 13 "" ""
+ U23 4
+ U24 4
+Net 14 "" ""
+ U20 2
+ U19 2
+Net 15 "" ""
+ U20 1
+ U19 1
+Net 16 "" ""
+ U19 3
+ U20 3
+Net 17 "" ""
+ U48 1
+ U50 1
+ U51 1
+ U52 1
+ U53 1
+ U54 1
+ U55 1
+ U56 1
+ U46 1
+ U47 1
+ U36 1
+ U30 1
+ U31 1
+ U32 1
+ U33 1
+ U34 1
+ U35 1
+ U57 1
+ U43 1
+ U49 1
+ U37 1
+ U38 1
+ U39 1
+ U40 1
+ U41 1
+ U42 1
+ U44 1
+ U45 1
+ U58 1
+ U59 1
+ U60 1
+ U61 1
+ U62 1
+ U63 1
+ U64 1
+ U65 1
+Net 18 "" ""
+ U23 6
+ U24 6
+Net 19 "" ""
+ U24 2
+ U23 2
+Net 20 "" ""
+ U24 1
+ U23 1
+Net 21 "" ""
+ U24 3
+ U23 3
+Net 22 "" ""
+ U23 5
+ U24 5
+Net 23 "" ""
+ U12 1
+ U11 1
+Net 24 "" ""
+ U11 4
+ U12 4
+Net 25 "" ""
+ U12 6
+ U11 6
+Net 26 "" ""
+ U12 2
+ U11 2
+Net 27 "" ""
+ U11 3
+ U12 3
+Net 28 "" ""
+ U12 5
+ U11 5
+Net 29 "" ""
+ U13 5
+ U14 5
+Net 30 "" ""
+ U9 1
+ U10 1
+Net 31 "" ""
+ U8 5
+ U7 5
+Net 32 "" ""
+ U9 5
+ U10 5
+Net 33 "" ""
+ U10 3
+ U9 3
+Net 34 "" ""
+ U13 3
+ U14 3
+Net 35 "" ""
+ U10 2
+ U9 2
+Net 36 "" ""
+ U9 6
+ U10 6
+Net 37 "" ""
+ U9 4
+ U10 4
+Net 38 "" ""
+ U16 2
+ U15 2
+Net 39 "" ""
+ U16 1
+ U15 1
+Net 40 "" ""
+ U16 3
+ U15 3
+Net 41 "" ""
+ U15 5
+ U16 5
+Net 42 "" ""
+ U17 5
+ U18 5
+Net 43 "" ""
+ U18 3
+ U17 3
+Net 44 "" ""
+ U17 1
+ U18 1
+Net 45 "" ""
+ U14 1
+ U13 1
+Net 46 "" ""
+ U13 2
+ U14 2
+Net 47 "" ""
+ U14 6
+ U13 6
+Net 48 "" ""
+ U14 4
+ U13 4
+Net 49 "" ""
+ U16 4
+ U15 4
+Net 50 "" ""
+ U15 6
+ U16 6
+Net 51 "" ""
+ U8 1
+ U7 1
+Net 52 "" ""
+ U7 3
+ U8 3
+Net 53 "" ""
+ U4 5
+ U3 5
+Net 54 "" ""
+ U3 2
+ U4 2
+Net 55 "" ""
+ U4 4
+ U3 4
+Net 56 "" ""
+ U4 6
+ U3 6
+Net 57 "" ""
+ U1 1
+ U2 1
+Net 58 "" ""
+ U3 3
+ U4 3
+Net 59 "" ""
+ U2 5
+ U1 5
+Net 60 "" ""
+ U1 2
+ U2 2
+Net 61 "" ""
+ U2 4
+ U1 4
+Net 62 "" ""
+ U2 6
+ U1 6
+Net 63 "" ""
+ U5 5
+ U6 5
+Net 64 "" ""
+ U7 2
+ U8 2
+Net 65 "" ""
+ U8 4
+ U7 4
+Net 66 "" ""
+ U8 6
+ U7 6
+Net 67 "" ""
+ U5 1
+ U6 1
+Net 68 "" ""
+ U5 2
+ U6 2
+Net 69 "" ""
+ U5 3
+ U6 3
+Net 70 "" ""
+ U5 4
+ U6 4
+Net 71 "" ""
+ U6 6
+ U5 6
+Net 72 "" ""
+ U3 1
+ U4 1
+Net 109 "" ""
+ U154 1
+ U155 1
+ U156 1
+ U157 1
+ U158 1
+ U159 1
+ U145 1
+ U153 1
+ U151 1
+ U152 1
+ U149 1
+ U148 1
+ U147 1
+ U146 1
+ U161 1
+ U168 1
+ U167 1
+ U166 1
+ U165 1
+ U164 1
+ U163 1
+ U162 1
+ U144 1
+ U139 1
+ U138 1
+ U137 1
+ U136 1
+ U135 1
+ U134 1
+ U133 1
+ U160 1
+ U143 1
+ U142 1
+ U141 1
+ U140 1
+ U150 1
+Net 110 "" ""
+ U1 3
+ U2 3
+Net 111 "" ""
+ U120 1
+ U119 1
+ U121 1
+ U118 1
+ U117 1
+ U29 1
+ U28 1
+ U27 1
+ U26 1
+ U25 1
+ U115 1
+ U114 1
+ U113 1
+ U112 1
+ U111 1
+ U110 1
+ U108 1
+ U107 1
+ U106 1
+ U116 1
+ U109 1
+ U122 1
+ U105 1
+ U104 1
+ U103 1
+ U102 1
+ U132 1
+ U130 1
+ U131 1
+ U129 1
+ U128 1
+ U127 1
+ U126 1
+ U125 1
+ U124 1
+ U123 1
+Net 112 "" ""
+ U66 1
+ U67 1
+ U68 1
+ U82 1
+ U74 1
+ U75 1
+ U76 1
+ U77 1
+ U78 1
+ U79 1
+ U91 1
+ U81 1
+ U83 1
+ U73 1
+ U84 1
+ U85 1
+ U86 1
+ U87 1
+ U88 1
+ U89 1
+ U90 1
+ U80 1
+ U92 1
+ U93 1
+ U94 1
+ U95 1
+ U96 1
+ U97 1
+ U98 1
+ U99 1
+ U100 1
+ U69 1
+ U101 1
+ U70 1
+ U71 1
+ U72 1
+}
+#End

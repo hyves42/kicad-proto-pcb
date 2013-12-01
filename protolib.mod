@@ -1,9 +1,10 @@
-PCBNEW-LibModule-V1  Fri 07 Jun 2013 11:03:12 PM CEST
+PCBNEW-LibModule-V1  Mon 02 Dec 2013 12:44:06 AM CET
 # encoding utf-8
 $INDEX
 proto_soic6
 proto_sot23
 proto_pad
+proto_pad2
 $EndINDEX
 $MODULE proto_sot23
 Po 0 0 0 15 51A92A43 00000000 ~~
@@ -56,11 +57,43 @@ Ne 0 ""
 Po -374 -433
 $EndPAD
 $EndMODULE  proto_sot23
+$MODULE proto_pad2
+Po 0 0 0 15 529B9420 00000000 ~~
+Li proto_pad2
+Sc 00000000
+AR
+Op 0 0 0
+T0 0 1000 600 600 0 120 N V 21 N "proto_pad2"
+T1 0 -1000 600 600 0 120 N V 21 N "VAL**"
+$PAD
+Sh "1" R 787 787 0 0 0
+Dr 354 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE  proto_pad2
+$MODULE proto_pad
+Po 0 0 0 15 529BB85F 00000000 ~~
+Li proto_pad
+Sc 00000000
+AR proto_pad
+Op 0 0 0
+T0 0 -1000 600 600 0 120 N I 21 N ""
+T1 0 1000 600 600 0 120 N I 21 N ""
+$PAD
+Sh "1" R 394 394 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE  proto_pad
 $MODULE proto_soic6
 Po 0 0 0 15 51A93064 00000000 ~~
 Li proto_soic6
 Sc 00000000
-AR
+AR 
 Op 0 0 0
 T0 0 -2750 600 600 0 120 N V 21 N "proto_soic6"
 T1 0 3000 600 600 0 120 N V 21 N "VAL**"
@@ -119,20 +152,4 @@ Ne 0 ""
 Po -500 -1500
 $EndPAD
 $EndMODULE  proto_soic6
-$MODULE proto_pad
-Po 0 0 0 15 51B24988 00000000 ~~
-Li proto_pad
-Sc 00000000
-AR 
-Op 0 0 0
-T0 0 -1000 600 600 0 120 N I 21 N ""
-T1 0 1000 600 600 0 120 N I 21 N ""
-$PAD
-Sh "1" R 270 270 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 0 0
-$EndPAD
-$EndMODULE  proto_pad
 $EndLIBRARY
