@@ -1,4 +1,32 @@
-Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Sun 01 Dec 2013 10:42:37 PM CET
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sun 08 Dec 2013 09:53:56 PM CET
+
+BeginCmp
+TimeStamp = /52A55D0A;
+Reference = H1;
+ValeurCmp = HOLE;
+IdModule  = hole_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A55D25;
+Reference = H2;
+ValeurCmp = HOLE;
+IdModule  = hole_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A55D34;
+Reference = H3;
+ValeurCmp = HOLE;
+IdModule  = hole_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A55D43;
+Reference = H4;
+ValeurCmp = HOLE;
+IdModule  = hole_2mm;
+EndCmp
 
 BeginCmp
 TimeStamp = /529B94B6;
@@ -250,6 +278,461 @@ TimeStamp = /529BABAC;
 Reference = P36;
 ValeurCmp = PAD;
 IdModule  = proto_pad2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C68A;
+Reference = PT1;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6BA;
+Reference = PT2;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6C0;
+Reference = PT3;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6C6;
+Reference = PT4;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6CC;
+Reference = PT5;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6D2;
+Reference = PT6;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6DE;
+Reference = PT7;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6E4;
+Reference = PT8;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6EA;
+Reference = PT9;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6F0;
+Reference = PT10;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6F6;
+Reference = PT11;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C6FC;
+Reference = PT12;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C702;
+Reference = PT13;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C708;
+Reference = PT14;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C70E;
+Reference = PT15;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4F144;
+Reference = PT16;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C765;
+Reference = PT17;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C76B;
+Reference = PT18;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C771;
+Reference = PT19;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C805;
+Reference = PT20;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C80B;
+Reference = PT21;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C811;
+Reference = PT22;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C817;
+Reference = PT23;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C81D;
+Reference = PT24;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C823;
+Reference = PT25;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C82F;
+Reference = PT26;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C835;
+Reference = PT27;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C83B;
+Reference = PT28;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C841;
+Reference = PT29;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C847;
+Reference = PT30;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C75F;
+Reference = PT31;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C829;
+Reference = PT32;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C872;
+Reference = PT33;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C878;
+Reference = PT34;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C87E;
+Reference = PT35;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C884;
+Reference = PT36;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C88A;
+Reference = PT37;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C890;
+Reference = PT38;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C896;
+Reference = PT39;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C89C;
+Reference = PT40;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8A2;
+Reference = PT41;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8A8;
+Reference = PT42;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8AE;
+Reference = PT43;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8B4;
+Reference = PT44;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8BA;
+Reference = PT45;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8C0;
+Reference = PT46;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C857;
+Reference = PT47;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C86C;
+Reference = PT48;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8E7;
+Reference = PT49;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8ED;
+Reference = PT50;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8F3;
+Reference = PT51;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8F9;
+Reference = PT52;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8FF;
+Reference = PT53;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C905;
+Reference = PT54;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C90B;
+Reference = PT55;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C911;
+Reference = PT56;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C917;
+Reference = PT57;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C91D;
+Reference = PT58;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C923;
+Reference = PT59;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C929;
+Reference = PT60;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C92F;
+Reference = PT61;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8C6;
+Reference = PT62;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8DB;
+Reference = PT63;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C8E1;
+Reference = PT64;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4C67D;
+Reference = TQFP1;
+ValeurCmp = PROTO_TQFP64;
+IdModule  = proto_tqfp_08;
 EndCmp
 
 BeginCmp
@@ -1424,6 +1907,13 @@ EndCmp
 BeginCmp
 TimeStamp = /529A22AE;
 Reference = U168;
+ValeurCmp = PAD;
+IdModule  = proto_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /529BB2F1;
+Reference = U1001;
 ValeurCmp = PAD;
 IdModule  = proto_pad;
 EndCmp
