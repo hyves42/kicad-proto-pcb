@@ -1,155 +1,644 @@
-PCBNEW-LibModule-V1  Mon 02 Dec 2013 12:44:06 AM CET
+PCBNEW-LibModule-V1  Sun 08 Dec 2013 09:50:58 PM CET
 # encoding utf-8
+Units mm
 $INDEX
-proto_soic6
-proto_sot23
+hole_2mm
 proto_pad
 proto_pad2
+proto_soic6
+proto_sot23
+proto_tqfp_08
 $EndINDEX
-$MODULE proto_sot23
-Po 0 0 0 15 51A92A43 00000000 ~~
-Li proto_sot23
-Sc 00000000
-AR
+$MODULE hole_2mm
+Po 0 0 0 15 52A4DA31 00000000 ~~
+Li hole_2mm
+Sc 0
+AR 
 Op 0 0 0
-T0 0 -1457 600 600 0 120 N V 21 N "proto_sot23"
-T1 0 1496 600 600 0 120 N V 21 N "VAL**"
+T0 0 -3.4 1.524 1.524 0 0.3048 N I 21 N "hole_2mm"
+T1 0 3 1.524 1.524 0 0.3048 N I 21 N "VAL**"
 $PAD
-Sh "1" R 228 472 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po -374 433
-$EndPAD
-$PAD
-Sh "2" R 228 472 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 0 433
-$EndPAD
-$PAD
-Sh "3" R 228 472 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 374 433
-$EndPAD
-$PAD
-Sh "4" R 228 472 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 374 -433
-$EndPAD
-$PAD
-Sh "5" R 228 472 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 0 -433
-$EndPAD
-$PAD
-Sh "6" R 228 472 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po -374 -433
-$EndPAD
-$EndMODULE  proto_sot23
-$MODULE proto_pad2
-Po 0 0 0 15 529B9420 00000000 ~~
-Li proto_pad2
-Sc 00000000
-AR
-Op 0 0 0
-T0 0 1000 600 600 0 120 N V 21 N "proto_pad2"
-T1 0 -1000 600 600 0 120 N V 21 N "VAL**"
-$PAD
-Sh "1" R 787 787 0 0 0
-Dr 354 0 0
+Sh "1" C 3 3 0 0 0
+Dr 2 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
-$EndMODULE  proto_pad2
+$EndMODULE hole_2mm
 $MODULE proto_pad
 Po 0 0 0 15 529BB85F 00000000 ~~
 Li proto_pad
-Sc 00000000
+Sc 0
 AR proto_pad
 Op 0 0 0
-T0 0 -1000 600 600 0 120 N I 21 N ""
-T1 0 1000 600 600 0 120 N I 21 N ""
+T0 0 -2.54 1.524 1.524 0 0.3048 N I 21 N ""
+T1 0 2.54 1.524 1.524 0 0.3048 N I 21 N ""
 $PAD
-Sh "1" R 394 394 0 0 0
+Sh "1" R 1.00076 1.00076 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0 0
 $EndPAD
-$EndMODULE  proto_pad
-$MODULE proto_soic6
-Po 0 0 0 15 51A93064 00000000 ~~
-Li proto_soic6
-Sc 00000000
+$EndMODULE proto_pad
+$MODULE proto_pad2
+Po 0 0 0 15 529B9420 00000000 ~~
+Li proto_pad2
+Sc 0
 AR 
 Op 0 0 0
-T0 0 -2750 600 600 0 120 N V 21 N "proto_soic6"
-T1 0 3000 600 600 0 120 N V 21 N "VAL**"
-DS -500 1500 -750 1250 150 21
-DS -500 1000 -750 750 150 21
-DS 750 -1000 750 -1500 150 21
-DS 750 -1500 -750 -1500 150 21
-DS -750 -1500 -750 -1000 150 21
-DS -750 1000 -750 1500 150 21
-DS -750 1500 750 1500 150 21
-DS 750 1500 750 1000 150 21
-DS 750 1000 -750 1000 150 21
-DS -750 1000 -750 -1000 150 21
-DS -750 -1000 750 -1000 150 21
-DS 750 -1000 750 1000 150 21
+T0 0 2.54 1.524 1.524 0 0.3048 N V 21 N "proto_pad2"
+T1 0 -2.54 1.524 1.524 0 0.3048 N V 21 N "VAL**"
 $PAD
-Sh "1" R 270 1500 0 0 0
+Sh "1" R 1.99898 1.99898 0 0 0
+Dr 0.89916 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE proto_pad2
+$MODULE proto_soic6
+Po 0 0 0 15 52A4BC60 00000000 ~~
+Li proto_soic6
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -6.985 1.524 1.524 0 0.3048 N I 21 N "proto_soic6"
+T1 0 7.62 1.524 1.524 0 0.3048 N I 21 N "VAL**"
+DS -1.27 3.81 -1.905 3.175 0.2 21
+DS -1.27 2.54 -1.905 1.905 0.2 21
+DS 1.905 -2.54 1.905 -3.81 0.2 21
+DS 1.905 -3.81 -1.905 -3.81 0.2 21
+DS -1.905 -3.81 -1.905 -2.54 0.2 21
+DS -1.905 2.54 -1.905 3.81 0.2 21
+DS -1.905 3.81 1.905 3.81 0.2 21
+DS 1.905 3.81 1.905 2.54 0.2 21
+DS 1.905 2.54 -1.905 2.54 0.2 21
+DS -1.905 2.54 -1.905 -2.54 0.2 21
+DS -1.905 -2.54 1.905 -2.54 0.2 21
+DS 1.905 -2.54 1.905 2.54 0.2 21
+$PAD
+Sh "1" R 0.6858 3.6 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -500 1500
+Po -1.27 3.81
 $EndPAD
 $PAD
-Sh "2" R 270 1500 0 0 0
+Sh "2" R 0.6858 3.6 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 1500
+Po 0 3.81
 $EndPAD
 $PAD
-Sh "3" R 270 1500 0 0 0
+Sh "3" R 0.6858 3.6 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 500 1500
+Po 1.27 3.81
 $EndPAD
 $PAD
-Sh "4" R 270 1500 0 0 0
+Sh "4" R 0.6858 3.6 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 500 -1500
+Po 1.27 -3.81
 $EndPAD
 $PAD
-Sh "5" R 270 1500 0 0 0
+Sh "5" R 0.6858 3.6 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0 -1500
+Po 0 -3.81
 $EndPAD
 $PAD
-Sh "6" R 270 1500 0 0 0
+Sh "6" R 0.6858 3.6 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -500 -1500
+Po -1.27 -3.81
 $EndPAD
-$EndMODULE  proto_soic6
+$EndMODULE proto_soic6
+$MODULE proto_sot23
+Po 0 0 0 15 51A92A43 00000000 ~~
+Li proto_sot23
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.70078 1.524 1.524 0 0.3048 N V 21 N "proto_sot23"
+T1 0 3.79984 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "1" R 0.57912 1.19888 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.94996 1.09982
+$EndPAD
+$PAD
+Sh "2" R 0.57912 1.19888 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.09982
+$EndPAD
+$PAD
+Sh "3" R 0.57912 1.19888 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.94996 1.09982
+$EndPAD
+$PAD
+Sh "4" R 0.57912 1.19888 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.94996 -1.09982
+$EndPAD
+$PAD
+Sh "5" R 0.57912 1.19888 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.09982
+$EndPAD
+$PAD
+Sh "6" R 0.57912 1.19888 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.94996 -1.09982
+$EndPAD
+$EndMODULE proto_sot23
+$MODULE proto_tqfp_08
+Po 0 0 0 15 52A4A9D0 00000000 ~~
+Li proto_tqfp_08
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -10.4 1.524 1.524 0 0.3048 N I 21 N "proto_tqfp_08"
+T1 0 10.2 1.524 1.524 0 0.3048 N I 21 N "VAL**"
+DS 3.8 -3.4 3.8 -3.8 0.2 21
+DS 3.8 -3.8 3.4 -3.8 0.2 21
+DS 0.2 -0.6 0.6 -0.6 0.2 21
+DS 0.6 -0.6 0.6 -0.2 0.2 21
+DS -3 2.6 -2.6 2.6 0.2 21
+DS -2.6 2.6 -2.6 3 0.2 21
+DS -6.6 -7 -7 -7 0.2 21
+DS -7 -7 -7 -6.6 0.2 21
+DS -6.6 7 -7 6.6 0.2 21
+DS 7 6.6 7 7 0.2 21
+DS 7 7 6.6 7 0.2 21
+DS 6.6 -7 7 -7 0.2 21
+DS 7 -7 7 -6.6 0.2 21
+$PAD
+Sh "1" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 7.8
+$EndPAD
+$PAD
+Sh "2" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2 7.8
+$EndPAD
+$PAD
+Sh "3" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4 7.8
+$EndPAD
+$PAD
+Sh "4" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.6 7.8
+$EndPAD
+$PAD
+Sh "5" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 7.8
+$EndPAD
+$PAD
+Sh "6" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 7.8
+$EndPAD
+$PAD
+Sh "7" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 7.8
+$EndPAD
+$PAD
+Sh "8" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 7.8
+$EndPAD
+$PAD
+Sh "9" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 7.8
+$EndPAD
+$PAD
+Sh "10" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 7.8
+$EndPAD
+$PAD
+Sh "11" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 7.8
+$EndPAD
+$PAD
+Sh "12" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 7.8
+$EndPAD
+$PAD
+Sh "13" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.6 7.8
+$EndPAD
+$PAD
+Sh "14" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4 7.8
+$EndPAD
+$PAD
+Sh "15" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2 7.8
+$EndPAD
+$PAD
+Sh "16" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 7.8
+$EndPAD
+$PAD
+Sh "17" R 0.5 11.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 6
+$EndPAD
+$PAD
+Sh "18" R 0.5 11.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 5.2
+$EndPAD
+$PAD
+Sh "19" R 0.5 11.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 4.4
+$EndPAD
+$PAD
+Sh "20" R 0.5 11.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3 3.6
+$EndPAD
+$PAD
+Sh "21" R 0.5 10.4 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.4 2.8
+$EndPAD
+$PAD
+Sh "22" R 0.5 9.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.8 2
+$EndPAD
+$PAD
+Sh "23" R 0.5 8.8 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.2 1.2
+$EndPAD
+$PAD
+Sh "24" R 0.5 8 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.6 0.4
+$EndPAD
+$PAD
+Sh "25" R 0.5 7.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5 -0.4
+$EndPAD
+$PAD
+Sh "26" R 0.5 6.4 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.4 -1.2
+$EndPAD
+$PAD
+Sh "27" R 0.5 5.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.8 -2
+$EndPAD
+$PAD
+Sh "28" R 0.5 4.8 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.2 -2.8
+$EndPAD
+$PAD
+Sh "29" R 0.5 4 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.6 -3.6
+$EndPAD
+$PAD
+Sh "30" R 0.5 3.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7 -4.4
+$EndPAD
+$PAD
+Sh "31" R 0.5 2.4 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.4 -5.2
+$EndPAD
+$PAD
+Sh "32" R 0.5 1.6 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.8 -6
+$EndPAD
+$PAD
+Sh "33" R 0.5 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6 -7.8
+$EndPAD
+$PAD
+Sh "34" R 0.5 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.2 -7.4
+$EndPAD
+$PAD
+Sh "35" R 0.5 3.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.4 -7
+$EndPAD
+$PAD
+Sh "36" R 0.5 4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.6 -6.6
+$EndPAD
+$PAD
+Sh "37" R 0.5 4.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 -6.2
+$EndPAD
+$PAD
+Sh "38" R 0.5 5.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 -5.8
+$EndPAD
+$PAD
+Sh "39" R 0.5 6.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 -5.4
+$EndPAD
+$PAD
+Sh "40" R 0.5 7.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 -5
+$EndPAD
+$PAD
+Sh "41" R 0.5 8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 -4.6
+$EndPAD
+$PAD
+Sh "42" R 0.5 8.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 -4.2
+$EndPAD
+$PAD
+Sh "43" R 0.5 9.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 -3.8
+$EndPAD
+$PAD
+Sh "44" R 0.5 10.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 -3.4
+$EndPAD
+$PAD
+Sh "45" R 0.5 11.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.6 -3
+$EndPAD
+$PAD
+Sh "46" R 0.5 11.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.4 -3
+$EndPAD
+$PAD
+Sh "47" R 0.5 11.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.2 -3
+$EndPAD
+$PAD
+Sh "48" R 0.5 11.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6 -3
+$EndPAD
+$PAD
+Sh "49" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 -6
+$EndPAD
+$PAD
+Sh "50" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 -5.2
+$EndPAD
+$PAD
+Sh "51" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 -4.4
+$EndPAD
+$PAD
+Sh "52" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 -3.6
+$EndPAD
+$PAD
+Sh "53" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 -2.8
+$EndPAD
+$PAD
+Sh "54" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 -2
+$EndPAD
+$PAD
+Sh "55" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 -1.2
+$EndPAD
+$PAD
+Sh "56" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 -0.4
+$EndPAD
+$PAD
+Sh "57" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 0.4
+$EndPAD
+$PAD
+Sh "58" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 1.2
+$EndPAD
+$PAD
+Sh "59" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 2
+$EndPAD
+$PAD
+Sh "60" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 2.8
+$EndPAD
+$PAD
+Sh "61" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 3.6
+$EndPAD
+$PAD
+Sh "62" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 4.4
+$EndPAD
+$PAD
+Sh "63" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 5.2
+$EndPAD
+$PAD
+Sh "64" R 0.5 1.6 0 0 2700
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.8 6
+$EndPAD
+$EndMODULE proto_tqfp_08
 $EndLIBRARY
