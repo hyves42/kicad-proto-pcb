@@ -59,7 +59,7 @@ PadSize 3 3
 PadDrill 2
 Pad2MaskClearance 0.254
 SolderMaskMinWidth 0
-AuxiliaryAxisOrg 40.92 160.19
+AuxiliaryAxisOrg 128.27 119.38
 VisibleElements FFFFFF5F
 PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 0.150000) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
 $EndSETUP
