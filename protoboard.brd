@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 2 date Thu 12 Dec 2013 09:57:42 PM CET
+PCBNEW-BOARD Version 2 date Thu 12 Dec 2013 10:19:32 PM CET
 
 # Created by Pcbnew(2013-mar-13)-testing
 
@@ -60,8 +60,8 @@ PadDrill 2
 Pad2MaskClearance 0.254
 SolderMaskMinWidth 0
 AuxiliaryAxisOrg 152.4 93.98
-VisibleElements FFFFFF5F
-PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 0.150000) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
+VisibleElements FFFFFF01
+PcbPlotParams (pcbplotparams (layerselection 271613953) (usegerberextensions true) (excludeedgelayer true) (linewidth 0.150000) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 0) (scaleselection 1) (outputdirectory gerber/))
 $EndSETUP
 
 $EQUIPOT
@@ -9002,7 +9002,7 @@ Po -0.94996 -1.09982
 $EndPAD
 $EndMODULE proto_sot23
 $MODULE proto_pad2
-Po 133.985 71.12 0 15 529B9420 52A754A3 ~~
+Po 134.62 71.12 0 15 529B9420 52A754A3 ~~
 Li proto_pad2
 Sc 52A754A3
 AR /529B9805
@@ -9018,7 +9018,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 136.525 71.12 0 15 529B9420 52A7549D ~~
+Po 137.16 71.12 0 15 529B9420 52A7549D ~~
 Li proto_pad2
 Sc 52A7549D
 AR /529B9804
@@ -9034,7 +9034,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 139.065 71.12 0 15 529B9420 52A75497 ~~
+Po 139.7 71.12 0 15 529B9420 52A75497 ~~
 Li proto_pad2
 Sc 52A75497
 AR /529B9806
@@ -9050,7 +9050,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 141.605 71.12 0 15 529B9420 52A75491 ~~
+Po 142.24 71.12 0 15 529B9420 52A75491 ~~
 Li proto_pad2
 Sc 52A75491
 AR /529B9807
@@ -9066,7 +9066,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 144.145 71.12 0 15 529B9420 52A7548B ~~
+Po 144.78 71.12 0 15 529B9420 52A7548B ~~
 Li proto_pad2
 Sc 52A7548B
 AR /529B9802
@@ -9082,7 +9082,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 146.685 71.12 0 15 529B9420 52A75485 ~~
+Po 147.32 71.12 0 15 529B9420 52A75485 ~~
 Li proto_pad2
 Sc 52A75485
 AR /529B9803
@@ -9098,7 +9098,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 149.225 71.12 0 15 529B9420 52A7547F ~~
+Po 149.86 71.12 0 15 529B9420 52A7547F ~~
 Li proto_pad2
 Sc 52A7547F
 AR /529B9801
@@ -9114,7 +9114,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 151.765 71.12 0 15 529B9420 52A75479 ~~
+Po 152.4 71.12 0 15 529B9420 52A75479 ~~
 Li proto_pad2
 Sc 52A75479
 AR /529B9800
@@ -9130,7 +9130,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 154.305 71.12 0 15 529B9420 52A75473 ~~
+Po 154.94 71.12 0 15 529B9420 52A75473 ~~
 Li proto_pad2
 Sc 52A75473
 AR /529B980A
@@ -9146,7 +9146,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 156.845 71.12 0 15 529B9420 52A7546D ~~
+Po 157.48 71.12 0 15 529B9420 52A7546D ~~
 Li proto_pad2
 Sc 52A7546D
 AR /529B980B
@@ -9162,7 +9162,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 159.385 71.12 0 15 529B9420 52A75467 ~~
+Po 160.02 71.12 0 15 529B9420 52A75467 ~~
 Li proto_pad2
 Sc 52A75467
 AR /529B9809
@@ -9178,7 +9178,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 161.925 71.12 0 15 529B9420 52A75461 ~~
+Po 162.56 71.12 0 15 529B9420 52A75461 ~~
 Li proto_pad2
 Sc 52A75461
 AR /529B9808
@@ -9194,7 +9194,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 164.465 71.12 0 15 529B9420 52A7545B ~~
+Po 165.1 71.12 0 15 529B9420 52A7545B ~~
 Li proto_pad2
 Sc 52A7545B
 AR /529B980D
@@ -9210,7 +9210,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 167.005 71.12 0 15 529B9420 52A75455 ~~
+Po 167.64 71.12 0 15 529B9420 52A75455 ~~
 Li proto_pad2
 Sc 52A75455
 AR /529B980C
@@ -9226,7 +9226,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 169.545 71.12 0 15 529B9420 52A7544F ~~
+Po 170.18 71.12 0 15 529B9420 52A7544F ~~
 Li proto_pad2
 Sc 52A7544F
 AR /529B980E
@@ -9242,7 +9242,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 159.385 116.84 0 15 529B9420 52A75449 ~~
+Po 160.02 116.84 0 15 529B9420 52A75449 ~~
 Li proto_pad2
 Sc 52A75449
 AR /529B97F4
@@ -9258,7 +9258,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 161.925 116.84 0 15 529B9420 52A75443 ~~
+Po 162.56 116.84 0 15 529B9420 52A75443 ~~
 Li proto_pad2
 Sc 52A75443
 AR /529B97F2
@@ -9274,7 +9274,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 156.845 116.84 0 15 529B9420 52A7543D ~~
+Po 157.48 116.84 0 15 529B9420 52A7543D ~~
 Li proto_pad2
 Sc 52A7543D
 AR /529B97F1
@@ -9290,7 +9290,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 154.305 116.84 0 15 529B9420 52A75437 ~~
+Po 154.94 116.84 0 15 529B9420 52A75437 ~~
 Li proto_pad2
 Sc 52A75437
 AR /529B97F6
@@ -9306,7 +9306,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 151.765 116.84 0 15 529B9420 52A75431 ~~
+Po 152.4 116.84 0 15 529B9420 52A75431 ~~
 Li proto_pad2
 Sc 52A75431
 AR /529B97F5
@@ -9322,7 +9322,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 149.225 116.84 0 15 529B9420 52A7542B ~~
+Po 149.86 116.84 0 15 529B9420 52A7542B ~~
 Li proto_pad2
 Sc 52A7542B
 AR /529B97F7
@@ -9338,7 +9338,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 146.685 116.84 0 15 529B9420 52A75425 ~~
+Po 147.32 116.84 0 15 529B9420 52A75425 ~~
 Li proto_pad2
 Sc 52A75425
 AR /529B97F8
@@ -9354,7 +9354,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 133.985 116.84 0 15 529B9420 52A7541F ~~
+Po 134.62 116.84 0 15 529B9420 52A7541F ~~
 Li proto_pad2
 Sc 52A7541F
 AR /529B97E9
@@ -9370,7 +9370,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 136.525 116.84 0 15 529B9420 52A75419 ~~
+Po 137.16 116.84 0 15 529B9420 52A75419 ~~
 Li proto_pad2
 Sc 52A75419
 AR /529B97EB
@@ -9386,7 +9386,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 139.065 116.84 0 15 529B9420 52A75413 ~~
+Po 139.7 116.84 0 15 529B9420 52A75413 ~~
 Li proto_pad2
 Sc 52A75413
 AR /529B97EC
@@ -9402,7 +9402,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 141.605 116.84 0 15 529B9420 52A7540D ~~
+Po 142.24 116.84 0 15 529B9420 52A7540D ~~
 Li proto_pad2
 Sc 52A7540D
 AR /529B97E0
@@ -9418,7 +9418,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 144.145 116.84 0 15 529B9420 52A75407 ~~
+Po 144.78 116.84 0 15 529B9420 52A75407 ~~
 Li proto_pad2
 Sc 52A75407
 AR /529B97E1
@@ -9434,7 +9434,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 164.465 116.84 0 15 529B9420 52A75401 ~~
+Po 165.1 116.84 0 15 529B9420 52A75401 ~~
 Li proto_pad2
 Sc 52A75401
 AR /529BABAA
@@ -9450,7 +9450,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 167.005 116.84 0 15 529B9420 52A753FB ~~
+Po 167.64 116.84 0 15 529B9420 52A753FB ~~
 Li proto_pad2
 Sc 52A753FB
 AR /529BABAB
@@ -9466,9 +9466,9 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 169.545 116.84 0 15 529B9420 52A753F5 ~~
+Po 170.18 116.84 0 15 529B9420 52AA276C ~~
 Li proto_pad2
-Sc 52A753F5
+Sc 52AA276C
 AR /529BABAD
 Op 0 0 0
 T0 0 2.54 1.524 1.524 0 0.3048 N V 21 N "P35"
@@ -14052,7 +14052,7 @@ Po -7.8 -6
 $EndPAD
 $EndMODULE proto_tqfp_08
 $MODULE hole_2mm
-Po 130.175 116.84 0 15 52A4DA31 52A74DA3 ~~
+Po 130.81 116.84 0 15 52A4DA31 52A74DA3 ~~
 Li hole_2mm
 Sc 52A74DA3
 AR /52A55D0A
@@ -14068,7 +14068,7 @@ Po 0 0
 $EndPAD
 $EndMODULE hole_2mm
 $MODULE hole_2mm
-Po 173.355 116.84 0 15 52A4DA31 52A74D9D ~~
+Po 173.99 116.84 0 15 52A4DA31 52A74D9D ~~
 Li hole_2mm
 Sc 52A74D9D
 AR /52A55D25
@@ -14084,7 +14084,7 @@ Po 0 0
 $EndPAD
 $EndMODULE hole_2mm
 $MODULE hole_2mm
-Po 130.175 72.39 0 15 52A4DA31 52A74D97 ~~
+Po 130.81 72.39 0 15 52A4DA31 52A74D97 ~~
 Li hole_2mm
 Sc 52A74D97
 AR /52A55D34
@@ -14100,7 +14100,7 @@ Po 0 0
 $EndPAD
 $EndMODULE hole_2mm
 $MODULE hole_2mm
-Po 173.355 72.39 0 15 52A4DA31 52A74D91 ~~
+Po 173.99 72.39 0 15 52A4DA31 52A74D91 ~~
 Li hole_2mm
 Sc 52A74D91
 AR /52A55D43
@@ -26292,7 +26292,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad
 $MODULE proto_pad2
-Po 133.985 73.66 0 15 529B9420 52A739E7 ~~
+Po 134.62 73.66 0 15 529B9420 52A739E7 ~~
 Li proto_pad2
 Sc 52A739E7
 AR /52A6724A
@@ -26308,7 +26308,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 136.525 73.66 0 15 529B9420 52A739E1 ~~
+Po 137.16 73.66 0 15 529B9420 52A739E1 ~~
 Li proto_pad2
 Sc 52A739E1
 AR /52A67244
@@ -26324,7 +26324,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 139.065 73.66 0 15 529B9420 52A739DB ~~
+Po 139.7 73.66 0 15 529B9420 52A739DB ~~
 Li proto_pad2
 Sc 52A739DB
 AR /52A67238
@@ -26340,7 +26340,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 141.605 73.66 0 15 529B9420 52A739D5 ~~
+Po 142.24 73.66 0 15 529B9420 52A739D5 ~~
 Li proto_pad2
 Sc 52A739D5
 AR /52A6723E
@@ -26356,7 +26356,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 144.145 73.66 0 15 529B9420 52A739CF ~~
+Po 144.78 73.66 0 15 529B9420 52A739CF ~~
 Li proto_pad2
 Sc 52A739CF
 AR /52A6727A
@@ -26372,7 +26372,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 149.225 73.66 0 15 529B9420 52A739C9 ~~
+Po 149.86 73.66 0 15 529B9420 52A739C9 ~~
 Li proto_pad2
 Sc 52A739C9
 AR /52A67274
@@ -26388,7 +26388,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 146.685 73.66 0 15 529B9420 52A739C3 ~~
+Po 147.32 73.66 0 15 529B9420 52A739C3 ~~
 Li proto_pad2
 Sc 52A739C3
 AR /52A67268
@@ -26404,7 +26404,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 154.305 73.66 0 15 529B9420 52A739BD ~~
+Po 154.94 73.66 0 15 529B9420 52A739BD ~~
 Li proto_pad2
 Sc 52A739BD
 AR /52A6726E
@@ -26420,7 +26420,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 151.765 73.66 0 15 529B9420 52A739B7 ~~
+Po 152.4 73.66 0 15 529B9420 52A739B7 ~~
 Li proto_pad2
 Sc 52A739B7
 AR /52A67250
@@ -26436,7 +26436,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 169.545 73.66 0 15 529B9420 52A739B1 ~~
+Po 170.18 73.66 0 15 529B9420 52A739B1 ~~
 Li proto_pad2
 Sc 52A739B1
 AR /52A67256
@@ -26452,7 +26452,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 167.005 73.66 0 15 529B9420 52A739AB ~~
+Po 167.64 73.66 0 15 529B9420 52A739AB ~~
 Li proto_pad2
 Sc 52A739AB
 AR /52A67262
@@ -26468,7 +26468,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 164.465 73.66 0 15 529B9420 52A739A5 ~~
+Po 165.1 73.66 0 15 529B9420 52A739A5 ~~
 Li proto_pad2
 Sc 52A739A5
 AR /52A6725C
@@ -26484,7 +26484,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 161.925 73.66 0 15 529B9420 52A7399F ~~
+Po 162.56 73.66 0 15 529B9420 52A7399F ~~
 Li proto_pad2
 Sc 52A7399F
 AR /52A67232
@@ -26500,7 +26500,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 159.385 73.66 0 15 529B9420 52A73999 ~~
+Po 160.02 73.66 0 15 529B9420 52A73999 ~~
 Li proto_pad2
 Sc 52A73999
 AR /52A6722C
@@ -26516,7 +26516,7 @@ Po 0 0
 $EndPAD
 $EndMODULE proto_pad2
 $MODULE proto_pad2
-Po 156.845 73.66 0 15 529B9420 52A73993 ~~
+Po 157.48 73.66 0 15 529B9420 52A73993 ~~
 Li proto_pad2
 Sc 52A73993
 AR /52A67226
